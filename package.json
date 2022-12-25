@@ -1,0 +1,19 @@
+{
+  "name": "welcome_to_te",
+  "version": "1.0.0",
+  "description": "Тестовое задание на позицию front-end разработчика [TileExpert](https://jobs.tile.expert/) компании.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bringmetheaugust/welcome_to_TE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bringmetheaugust/welcome_to_TE/issues"
+  },
+  "homepage": "https://github.com/bringmetheaugust/welcome_to_TE#readme"
+}
